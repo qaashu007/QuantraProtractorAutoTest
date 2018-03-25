@@ -5,6 +5,11 @@ These are the full e2e automated tests that actually run inside a browser. This 
 ## Getting Started
 To run this test project, you need to install below tools & dependencies
 
+```
+Nodejs version: 8.10.0
+npm version: 5.10.0
+```
+
 ### Prerequisites
 You need to install some important softwares and dependencies to run test successfully. For details, Read below setup
 
