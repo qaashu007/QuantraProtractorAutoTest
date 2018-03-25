@@ -48,7 +48,8 @@ Given Test cases are:
   2. Sign in using the email & password mentioned below. 
   3. Check you've logged in successfully. 
   4. Upvote on the first post that you see on that page. 
-  5. Click on the "New Post" button. 6. After the modal opens, fill the form using dummy data (except the recaptcha). 
+  5. Click on the "New Post" button. 
+  6. After the modal opens, fill the form using dummy data (except the recaptcha). 
   7. Click on the "Post" button. 
   8. Assert you get an error: "Recaptcha required"
   ```
