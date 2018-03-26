@@ -6,7 +6,7 @@
   "postDescription": "These are the full e2e automated tests that actually run inside a browser.",
   "dependencies": {
     "java-script": "",
-    "protractor": "^5.0.0",
+    "protractor": "^8.10.0",
     "webdriver-manager": "10.2.8"
   },
   "devDependencies": {},
